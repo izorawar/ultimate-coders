@@ -1,0 +1,76 @@
+{
+  "items": [
+    {
+      "sys": { "id": "1" },
+      "fields": {
+        "title": "Running Sneaker Shoes",
+        "type": "Men / Women",
+        "price": 180.85,
+        "image": { "fields": { "file": { "url": "./images/product-1.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "2" },
+      "fields": {
+        "title": "Leather Mens Slipper",
+        "type": "Men / Sports",
+        "price": 190.85,
+        "image": { "fields": { "file": { "url": "./images/product-2.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "3" },
+      "fields": {
+        "title": "Simple Fabric Shoe",
+        "type": "Men / Women",
+        "price": 160.85,
+        "image": { "fields": { "file": { "url": "./images/product-3.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "4" },
+      "fields": {
+        "title": "Air Jordan 7 Retro",
+        "type": "Men / Sports",
+        "price": 170.85,
+        "image": { "fields": { "file": { "url": "./images/product-4.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "5" },
+      "fields": {
+        "title": "Nike Air Max 270 SE",
+        "type": "Men / Women",
+        "price": 88.99,
+        "image": { "fields": { "file": { "url": "./images/product-5.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "6" },
+      "fields": {
+        "title": "Adidas Sneakers Shoes",
+        "type": "Men / Women",
+        "price": 100.85,
+        "image": { "fields": { "file": { "url": "./images/product-7.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "7" },
+      "fields": {
+        "title": "Nike Basketball Shoes",
+        "price": 120.85,
+        "type": "Men / Sports",
+        "image": { "fields": { "file": { "url": "./images/product-6.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "8" },
+      "fields": {
+        "title": "Simple Fabric Shoe",
+        "type": "Men / Women",
+        "price": 100.85,
+        "image": { "fields": { "file": { "url": "./images/product-8.jpg" } } }
+      }
+    }
+  ]
+}
